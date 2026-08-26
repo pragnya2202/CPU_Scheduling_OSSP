@@ -1,1 +1,1 @@
-# CPUScheduling_OSSP
+# CPU_Scheduling_OSSP
